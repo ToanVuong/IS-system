@@ -1,5 +1,5 @@
 
-# Heart Disease & Stroke Diagnosis with Random Forest (CO5134)
+# Heart Disease & Stroke Diagnosis with Random Forest
 
 **Course:** Intelligent System (CO5134) — Ho Chi Minh University of Technology (VNU-HCM)  
 **Instructor:** Prof. Quan Thanh Tho  
